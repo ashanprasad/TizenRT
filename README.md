@@ -52,7 +52,7 @@ cd ..
 make menuconfig
 ```
 
-Refer [kconfig-frontend installation](docs/HowtoInstallKconfigFrontend.md) to use *menuconfig*.
+Refer [kconfig-frontend and nuttx tool installation](docs/HowtoInstallKconfigFrontend.md) to use *menuconfig*.These packages are mandatory for using menuconfig
 
 Finally, initiate build by make from *$TIZENRT_BASEDIR/os*.
 ```bash
